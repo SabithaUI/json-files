@@ -27,5 +27,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employeeList": [
+    {
+     "id": 1,
+     "name": "John",
+     "title": "Mr"
+    },
+    {
+     "id": 2,
+     "name": "Judy",
+     "title": "Mrs" 
+    }
+   ]
 }
